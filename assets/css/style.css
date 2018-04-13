@@ -3,7 +3,7 @@ body{
     width: 960px;
     margin: 0 auto;
     align-content: center;
-    background: url("assets/images/image.jpg");
+    background: url("../images/image.jpg");
 }
 }
 
